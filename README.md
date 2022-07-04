@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 [![jQuery](https://img.shields.io/badge/jQuery-FF9E0F?style=flat-square&logo=jQuery&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/jinjinzarada/TODO-List)
+[![Html](https://img.shields.io/badge/Html-EF2D5E?style=flat-square&logo=Html&logoColor=black)](github.com/jinjinzarada/TODO-List)
+[![CSS](https://img.shields.io/badge/CSS-0085CA?style=flat-square&logo=CSS&logoColor=black)](github.com/jinjinzarada/TODO-List)
