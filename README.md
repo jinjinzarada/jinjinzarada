@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋쵠진's%20world🎈&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋쵠진's%20World🎈&fontSize=70)
 
 <div align=center>
   
 ## ✌ t e c h ✌
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![jQuery](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=jQuery&logoColor=black)](github.com/bobn/TODO-List)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/bobn/TODO-List)
