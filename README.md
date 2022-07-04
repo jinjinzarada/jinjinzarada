@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=👋쵠진's%20World🎈&fontAlignY=40&fontSize=100&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=👋쵠진's%20World🎈&fontAlignY=40&fontSize=70&animation=twinkling)
 
 <div align=center>
   
