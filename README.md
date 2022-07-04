@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   
 ## ✌ t e c h ✌
 
-[![jQuery](https://img.shields.io/badge/JavaScript-40AEF0?style=flat-square&logo=jQuery&logoColor=black)](github.com/bobn/TODO-List)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/bobn/TODO-List)
+[![jQuery](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=jQuery&logoColor=black)](github.com/jinjinzarada/TODO-List)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/jinjinzarada/TODO-List)
