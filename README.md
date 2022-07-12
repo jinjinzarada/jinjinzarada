@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   
 ## ✌ t e c h ✌
 
-[![jQuery](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/jinjinzarada/TODO-List)
+[![jQuery](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![jQuery](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/jinjinzarada/TODO-List)
-[![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=black)](github.com/jinjinzarada/TODO-List)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black)](github.com/jinjinzarada/TODO-List)
+[![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jinjinzarada/TODO-List)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/jinjinzarada/TODO-List)
