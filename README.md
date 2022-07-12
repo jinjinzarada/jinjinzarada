@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   
 ## ✌ t e c h ✌
 
+[![jQuery](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![jQuery](https://img.shields.io/badge/jQuery-FF9E0F?style=flat-square&logo=jQuery&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![Html](https://img.shields.io/badge/Html-EF2D5E?style=flat-square&logo=HTML5&logoColor=black)](github.com/jinjinzarada/TODO-List)
