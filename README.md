@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![jQuery](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/jinjinzarada/TODO-List)
-[![Apache Tomcat](https://img.shields.io/badge/Apache Tomcat-#F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white)](github.com/jinjinzarada/TODO-List)
+[![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-#F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white)](github.com/jinjinzarada/TODO-List)
