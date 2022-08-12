@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![jQuery](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](github.com/jinjinzarada/TODO-List)
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
