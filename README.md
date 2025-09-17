@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ## ✌ Tools & Platforms ✌ 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
