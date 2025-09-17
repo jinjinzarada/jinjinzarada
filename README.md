@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <div align=center>
   
 ## ✌ Languages ✌ 
+[![jQuery](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](github.com/jinjinzarada/TODO-List)
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/jinjinzarada/TODO-List)
-[![jQuery](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](github.com/jinjinzarada/TODO-List)
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 ## ✌ Frameworks & Libraries ✌ 
 [![jQuery](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/jinjinzarada/TODO-List)
