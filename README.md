@@ -43,3 +43,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
 <img src="https://img.shields.io/badge/roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white">
+
+## 🔗 Operating Systems / Server ⛓
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/redhat-EE0000?style=flat-square&logo=redhat&logoColor=white">
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
