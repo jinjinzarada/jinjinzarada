@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/jinjinzarada/TODO-List)
 <img src="https://img.shields.io/badge/vue.js-234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
 
 ## 🛠 Frameworks & Libraries ⚙ 
 [![jQuery](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/jinjinzarada/TODO-List)
