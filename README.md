@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/jinjinzarada/TODO-List)
 [![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/jinjinzarada/TODO-List)
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg>
+<img src="https://img.shields.io/badge/vue.js-234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 
 ## 🛠 Frameworks & Libraries ⚙ 
 [![jQuery](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/jinjinzarada/TODO-List)
