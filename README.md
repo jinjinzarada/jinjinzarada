@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 [![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jinjinzarada/TODO-List)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/jinjinzarada/TODO-List)
 <img src="https://img.shields.io/badge/vue.js-234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/postgresql-23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
 
 ## 🛠 Frameworks & Libraries ⚙ 
 [![jQuery](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/jinjinzarada/TODO-List)
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
 
 ## 🎮 Tools & Platforms 🕹 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
